@@ -1,5 +1,5 @@
 {
-  "name": "file",
+  "name": "utilise.file",
   "version": "0.0.0",
   "main": "index.js",
   "browser": {
@@ -13,9 +13,8 @@
   "license": "pemrouz.mit-license.org",
   "devDependencies": {
     "chai": "^2.3.0",
-    "client": "git+https://github.com/utilise/client.git",
+    "utilise.client": "*",
     "coveralls": "^2.11.2",
-    "is": "git+https://github.com/utilise/is.git",
     "istanbul": "^0.3.13",
     "mocha": "^2.2.4",
     "mocha-lcov-reporter": "0.0.2"
